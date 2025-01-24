@@ -1,1 +1,6 @@
 /* Le code CSS spécifique à la page d'accueil */
+
+body {
+    background-color: purple;
+    color: white
+}
